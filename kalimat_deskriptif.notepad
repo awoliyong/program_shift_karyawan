@@ -1,0 +1,14 @@
+Kalimat deskriptif 
+
+1. Program mulai
+2. Program menyiapkan data karyawan dalam bentuk list yang masih kosong
+3. Program menampilkan berbagai menu (tambah data, tampilkan semua data, update data, delete data, urut atau sort data, find atau cari data, lalu keluar)
+4. User pilih satu dari fitur menu
+5. Jika memilih tambah data program menyuruh user untuk mengisi nama, shift, id dan save data otomatis
+6. Jika memilih tampilkan semua data, program menampilkan isi semua data karyawan
+7. Jika memilih update user harus masukin id dahulu baru update datanya 
+8. Jika memilih delete user juga harus hapus melalui id
+9. Jika memilih sort program harus mengurut nama dari A sampai Z
+10. Jika memilih cari atau find, program bisa mencari lewat id atau nama
+11. Jika user memilih keluar program berhenti
+12. Selesai 
